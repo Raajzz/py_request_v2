@@ -1,7 +1,5 @@
 from get_request import get_json_data
 from post_request import post_json_data
-from put_request import put_json_data
-from delete_request import delete_json_data
 
 def main():
     # to call the different requests defined
